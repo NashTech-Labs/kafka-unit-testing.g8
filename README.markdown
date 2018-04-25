@@ -2,7 +2,9 @@ A [Giter8][g8] template for Sample application of Kafka Producer and Consumer an
 
 **KAFKA-UNIT-TESTING**
 
-A basic application to show use case of kafka producer and consumer. And to demonstrate unit testing of kafka using Embedded Kafka.
+A basic application to show use case of kafka producer and consumer, and to demonstrate unit testing of kafka using Embedded Kafka.
+EmbeddedKafka is a library which gives us flexibility to unit test kafka. It will run zookeeper and kafka server itself before the test and stop it after test.
+
 
 **How to setup ?**
 
