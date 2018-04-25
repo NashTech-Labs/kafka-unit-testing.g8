@@ -10,12 +10,13 @@ A basic application to show use case of kafka producer and consumer. And to demo
 
 ` sbt new mahesh2492/kafka-unit-testing.g8`
 
-**2) Compile the application **
+**2) Compile the application**
 
 `cd kafka-unit-testing
+
  sbt clean compile `
  
- **3) Test the application **
+ **3) Test the application**
  
  ` sbt clean test`
 
