@@ -1,4 +1,4 @@
-A [Giter8][g8] template for Sample application of Kafka Producer and Consumer and its unit testing using Embedded Kafka.
+A [Giter8][g8] template for Sample application of Kafka Producer/Consumer API and its unit testing using Embedded Kafka.
 
 **KAFKA-UNIT-TESTING**
 
@@ -10,7 +10,7 @@ EmbeddedKafka is a library which gives us flexibility to unit test kafka. It wil
 
 **1) Clone the application**
 
-` sbt new mahesh2492/kafka-unit-testing.g8`
+` sbt new knoldus/kafka-unit-testing.g8`
 
 **2) Compile the application**
 
