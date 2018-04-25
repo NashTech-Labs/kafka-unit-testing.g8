@@ -23,7 +23,6 @@ A basic application to show use case of kafka producer and consumer. And to demo
 Template license
 ----------------
 Written in 2018 by <Mahesh Chand> <mahesh.kndpl@gmail.com>
-[other author/contributor lines as appropriate]
 
 To the extent possible under law, the author(s) have dedicated all copyright and related
 and neighboring rights to this template to the public domain worldwide.
