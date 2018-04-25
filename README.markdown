@@ -12,9 +12,9 @@ A basic application to show use case of kafka producer and consumer. And to demo
 
 **2) Compile the application**
 
-`cd kafka-unit-testing
+`cd kafka-unit-testing`
 
- sbt clean compile `
+ `sbt clean compile `
  
  **3) Test the application**
  
