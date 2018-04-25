@@ -1,8 +1,24 @@
-A [Giter8][g8] template for ...!
+A [Giter8][g8] template for Sample application of Kafka Producer and Consumer and its unit testing using Embedded Kafka.
+
+**kafka-unit-testing**
+A basic application to show use case of kafka producer and consumer. And to demonstrate unit testing of kafka using Embedded Kafka.
+
+**How to setup ? **
+
+**1) Clone the application**
+` sbt new mahesh2492/kafka-unit-testing.g8`
+
+**2) Compile the application **
+`cd kafka-unit-testing
+ sbt clean compile `
+ 
+ **3) Test the application **
+ ` sbt clean test`
+
 
 Template license
 ----------------
-Written in <YEAR> by <AUTHOR NAME> <AUTHOR E-MAIL ADDRESS>
+Written in 2018 by <Mahesh Chand> <mahesh.kndpl@gmail.com>
 [other author/contributor lines as appropriate]
 
 To the extent possible under law, the author(s) have dedicated all copyright and related
